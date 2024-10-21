@@ -1,0 +1,4 @@
+C:\Users\christophercane\source\repos\DesignPatternImplementation\DesignPatternImplementation\obj\Debug\net8.0\DesignPatternImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christophercane\source\repos\DesignPatternImplementation\DesignPatternImplementation\obj\Debug\net8.0\DesignPatternImplementation.AssemblyInfoInputs.cache
+C:\Users\christophercane\source\repos\DesignPatternImplementation\DesignPatternImplementation\obj\Debug\net8.0\DesignPatternImplementation.AssemblyInfo.cs
+C:\Users\christophercane\source\repos\DesignPatternImplementation\DesignPatternImplementation\obj\Debug\net8.0\DesignPatternImplementation.csproj.CoreCompileInputs.cache
